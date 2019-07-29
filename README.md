@@ -1,2 +1,3 @@
-# PrjVendasComercio
-O objetivo do Projeto é de implementar uma aplicação que faça as operações de vendas de um pequeno comércio varejista a partir do controle dos dados de vendedores, de clientes pessoa física e de produtos para a efetivação da transação de venda. 
+# Trade Sales
+
+The objective of the Project is to implement an application that makes the sales operations of a small retail trade by controlling the data of sellers, individual customers and products to effect the sale transaction.
